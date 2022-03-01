@@ -1,0 +1,11 @@
+mat-toolbar{
+    height: 75px;
+    font-size: 40px;
+}
+
+.menu{
+    float: right; 
+    position: relative;
+    font-size: 45px;
+    flex: 1 1 auto;
+}
